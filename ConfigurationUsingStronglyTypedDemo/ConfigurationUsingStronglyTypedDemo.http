@@ -1,0 +1,6 @@
+@ConfigurationUsingStronglyTypedDemo_HostAddress = http://localhost:5086
+
+GET {{ConfigurationUsingStronglyTypedDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
